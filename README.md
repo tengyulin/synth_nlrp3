@@ -1,4 +1,4 @@
-# Cryo-EM Synthethic Generation for NLRP3 Molecules.
+# Cryo-EM Synthethic Generation for NLRP3 Molecule.
 Notion notebook: https://glimmer-brie-6b7.notion.site/NLRP3-Simulation-Experiment-dbdca9c949ed45328ed2d1f312a3cf99
 
 ## How to use
