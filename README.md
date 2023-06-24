@@ -11,7 +11,9 @@ See the download details in the Notion notebook appendix.
 ## Python environment
 Use ManifoldEM environment for every python script. 
 
-`conda create env -f ManifoldEM_env_linux.yml`
+```shell
+conda create env -f ManifoldEM_env_linux.yml
+```
 
 ## Refences
 This workflow is inspired by https://github.com/evanseitz/cryoEM_synthetic_generation. We changed the occupancy map for the purpose of our experiment.
