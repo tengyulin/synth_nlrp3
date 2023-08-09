@@ -4,7 +4,6 @@ The synthetic data generation workflow is used in our study, which focuses on se
 
 ## Setup
 We tested this workflow on WSL2 with windows 11. To our knowledge, it should also work on Linux-like systems. For more details about how we created each conformational change and the required software installation while using WSL2. Please refer to our [note](https://glimmer-brie-6b7.notion.site/NLRP3-Simulation-Experiment-dbdca9c949ed45328ed2d1f312a3cf99)
->>>>>>> ada4f99 (09.08.23 update)
 
 
 ## Python environment
